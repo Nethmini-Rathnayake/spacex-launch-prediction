@@ -1,1 +1,1 @@
-Print("New file")
+print("New file")
